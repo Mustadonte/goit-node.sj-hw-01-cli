@@ -1,1 +1,1 @@
-# goit-node.sj-hw-01-cli-
+# goit-node.sj-hw-01-cli
