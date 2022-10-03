@@ -16,4 +16,4 @@
 
 3. getById https://monosnap.com/file/HKxZNcnhsnPpRFyHqsKFQpUcn2DSpj
 
-4. removeContac thttps://monosnap.com/file/ZXcOEsRcKnwisUj4ik0PIQm78ttPpD
+4. removeContac https://monosnap.com/file/ZXcOEsRcKnwisUj4ik0PIQm78ttPpD
