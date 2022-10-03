@@ -1,6 +1,6 @@
 # goit-node.sj-hw-01-cli
 
-1. Get list] ![Get list](./assets/action.list.png)
+1. Get list ![Get list](./assets/action.list.png)
 
 2. addContact ![addContact](./assets/addContact.png)
 
